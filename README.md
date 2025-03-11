@@ -4095,9 +4095,13 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 We encourage you to fork this guide and change the rules to fit your team’s style guide. Below, you may list some amendments to the style guide. This allows you to periodically update your style guide without having to deal with merge conflicts.
 
 # };
+# };
 Change 1 in branch1
 Change 2 in branch1
 Change 3 in branch1
+Change 4 in branch1
+Change 5 in branch1
+Change 6 in branch1
 Change 7 in branch1
 Change 8 in branch1
 Change 9 in branch1
